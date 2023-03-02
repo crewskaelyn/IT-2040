@@ -1,0 +1,15 @@
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/bin/Debug/net7.0/AdditionGame
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/bin/Debug/net7.0/AdditionGame.deps.json
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/bin/Debug/net7.0/AdditionGame.runtimeconfig.json
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/bin/Debug/net7.0/AdditionGame.dll
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/bin/Debug/net7.0/AdditionGame.pdb
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/obj/Debug/net7.0/AdditionGame.csproj.AssemblyReference.cache
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/obj/Debug/net7.0/AdditionGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/obj/Debug/net7.0/AdditionGame.AssemblyInfoInputs.cache
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/obj/Debug/net7.0/AdditionGame.AssemblyInfo.cs
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/obj/Debug/net7.0/AdditionGame.csproj.CoreCompileInputs.cache
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/obj/Debug/net7.0/AdditionGame.dll
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/obj/Debug/net7.0/refint/AdditionGame.dll
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/obj/Debug/net7.0/AdditionGame.pdb
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/obj/Debug/net7.0/AdditionGame.genruntimeconfig.cache
+/Users/kaelyncrews/Desktop/IT2040/AdditionGame/obj/Debug/net7.0/ref/AdditionGame.dll
