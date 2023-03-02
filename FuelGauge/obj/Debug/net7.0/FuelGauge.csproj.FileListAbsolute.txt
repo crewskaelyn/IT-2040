@@ -1,0 +1,15 @@
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/bin/Debug/net7.0/FuelGauge
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/bin/Debug/net7.0/FuelGauge.deps.json
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/bin/Debug/net7.0/FuelGauge.runtimeconfig.json
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/bin/Debug/net7.0/FuelGauge.dll
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/bin/Debug/net7.0/FuelGauge.pdb
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/obj/Debug/net7.0/FuelGauge.csproj.AssemblyReference.cache
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/obj/Debug/net7.0/FuelGauge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/obj/Debug/net7.0/FuelGauge.AssemblyInfoInputs.cache
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/obj/Debug/net7.0/FuelGauge.AssemblyInfo.cs
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/obj/Debug/net7.0/FuelGauge.csproj.CoreCompileInputs.cache
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/obj/Debug/net7.0/FuelGauge.dll
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/obj/Debug/net7.0/refint/FuelGauge.dll
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/obj/Debug/net7.0/FuelGauge.pdb
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/obj/Debug/net7.0/FuelGauge.genruntimeconfig.cache
+/Users/kaelyncrews/Desktop/IT2040/FuelGauge/obj/Debug/net7.0/ref/FuelGauge.dll

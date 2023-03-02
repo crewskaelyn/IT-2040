@@ -1,0 +1,15 @@
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/bin/Debug/net7.0/GradeConverter
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/bin/Debug/net7.0/GradeConverter.deps.json
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/bin/Debug/net7.0/GradeConverter.runtimeconfig.json
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/bin/Debug/net7.0/GradeConverter.dll
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/bin/Debug/net7.0/GradeConverter.pdb
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/obj/Debug/net7.0/GradeConverter.csproj.AssemblyReference.cache
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/obj/Debug/net7.0/GradeConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/obj/Debug/net7.0/GradeConverter.AssemblyInfoInputs.cache
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/obj/Debug/net7.0/GradeConverter.AssemblyInfo.cs
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/obj/Debug/net7.0/GradeConverter.csproj.CoreCompileInputs.cache
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/obj/Debug/net7.0/GradeConverter.dll
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/obj/Debug/net7.0/refint/GradeConverter.dll
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/obj/Debug/net7.0/GradeConverter.pdb
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/obj/Debug/net7.0/GradeConverter.genruntimeconfig.cache
+/Users/kaelyncrews/Desktop/IT2040/GradeConverter/obj/Debug/net7.0/ref/GradeConverter.dll

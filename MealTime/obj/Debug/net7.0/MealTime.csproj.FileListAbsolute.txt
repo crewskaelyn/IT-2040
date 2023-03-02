@@ -1,0 +1,15 @@
+/Users/kaelyncrews/Desktop/IT2040/MealTime/obj/Debug/net7.0/MealTime.csproj.AssemblyReference.cache
+/Users/kaelyncrews/Desktop/IT2040/MealTime/obj/Debug/net7.0/MealTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaelyncrews/Desktop/IT2040/MealTime/obj/Debug/net7.0/MealTime.AssemblyInfoInputs.cache
+/Users/kaelyncrews/Desktop/IT2040/MealTime/obj/Debug/net7.0/MealTime.AssemblyInfo.cs
+/Users/kaelyncrews/Desktop/IT2040/MealTime/obj/Debug/net7.0/MealTime.csproj.CoreCompileInputs.cache
+/Users/kaelyncrews/Desktop/IT2040/MealTime/bin/Debug/net7.0/MealTime
+/Users/kaelyncrews/Desktop/IT2040/MealTime/bin/Debug/net7.0/MealTime.deps.json
+/Users/kaelyncrews/Desktop/IT2040/MealTime/bin/Debug/net7.0/MealTime.runtimeconfig.json
+/Users/kaelyncrews/Desktop/IT2040/MealTime/bin/Debug/net7.0/MealTime.dll
+/Users/kaelyncrews/Desktop/IT2040/MealTime/bin/Debug/net7.0/MealTime.pdb
+/Users/kaelyncrews/Desktop/IT2040/MealTime/obj/Debug/net7.0/MealTime.dll
+/Users/kaelyncrews/Desktop/IT2040/MealTime/obj/Debug/net7.0/refint/MealTime.dll
+/Users/kaelyncrews/Desktop/IT2040/MealTime/obj/Debug/net7.0/MealTime.pdb
+/Users/kaelyncrews/Desktop/IT2040/MealTime/obj/Debug/net7.0/MealTime.genruntimeconfig.cache
+/Users/kaelyncrews/Desktop/IT2040/MealTime/obj/Debug/net7.0/ref/MealTime.dll
