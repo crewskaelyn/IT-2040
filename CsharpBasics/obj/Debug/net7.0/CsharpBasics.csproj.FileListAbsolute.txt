@@ -1,0 +1,15 @@
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/bin/Debug/net7.0/CsharpBasics
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/bin/Debug/net7.0/CsharpBasics.deps.json
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/bin/Debug/net7.0/CsharpBasics.runtimeconfig.json
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/bin/Debug/net7.0/CsharpBasics.dll
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/bin/Debug/net7.0/CsharpBasics.pdb
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/obj/Debug/net7.0/CsharpBasics.csproj.AssemblyReference.cache
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/obj/Debug/net7.0/CsharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/obj/Debug/net7.0/CsharpBasics.AssemblyInfoInputs.cache
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/obj/Debug/net7.0/CsharpBasics.AssemblyInfo.cs
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/obj/Debug/net7.0/CsharpBasics.csproj.CoreCompileInputs.cache
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/obj/Debug/net7.0/CsharpBasics.dll
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/obj/Debug/net7.0/refint/CsharpBasics.dll
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/obj/Debug/net7.0/CsharpBasics.pdb
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/obj/Debug/net7.0/CsharpBasics.genruntimeconfig.cache
+/Users/kaelyncrews/Desktop/IT2040/CsharpBasics/obj/Debug/net7.0/ref/CsharpBasics.dll
